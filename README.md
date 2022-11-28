@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abidur Niloy</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 >Hi 👋, I'm Abidur Niloy</h3>
+<h4 >A passionate frontend developer from Bangladesh</h4>
 <img align='right' alt='Coding' width='400' src='https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif'>
 
 - 🌱 I’m currently learning **React and Nextjs**
